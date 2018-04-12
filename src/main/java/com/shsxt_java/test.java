@@ -6,6 +6,7 @@ package com.shsxt_java;
 public class test {
     public static void main(String args[]){
         System.out.println("干你血妈李鹏飞！！！！！！");
+        System.out.println("w我干你血妈周先康！！！！！！！！ ");
         System.out.println("干你..................");
     }
 }
